@@ -1,0 +1,16 @@
+{
+  "name": "downloadvideo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadVideo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zzf",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-xlsx": "^0.21.0",
+    "ora": "^5.1.0"
+  }
+}
