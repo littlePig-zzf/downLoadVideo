@@ -6,3 +6,5 @@
 ### 2、执行npm install
 
 ### 3、执行node index.js
+
+### 下载的视频放着video目录下
